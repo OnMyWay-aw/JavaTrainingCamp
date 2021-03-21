@@ -227,7 +227,6 @@ public class ClassLoader4Hello extends ClassLoader {
 输出结果：Hello, classLoader!
 
 ![img.png](img.png)
-![image](img.png)
 
 3.（必做）画一张图，展示 Xmx、Xms、Xmn、Meta、DirectMemory、Xss 这些内存参数的关系。
 
