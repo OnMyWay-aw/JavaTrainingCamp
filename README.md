@@ -1,2 +1,2 @@
 # JavaTrainingCamp
-我在java训练营的作业
+java训练营的作业
