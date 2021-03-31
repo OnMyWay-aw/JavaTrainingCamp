@@ -1,0 +1,16 @@
+Java HotSpot(TM) 64-Bit Server VM (25.181-b13) for bsd-amd64 JRE (1.8.0_181-b13), built on Jul  7 2018 01:02:31 by "java_re" with gcc 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.11.00)
+Memory: 4k page, physical 16777216k(531996k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=268435456 -XX:MaxHeapSize=4294967296 -XX:+PrintGC -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC 
+0.658: [GC (Allocation Failure)  65536K->4352K(251392K), 0.0043320 secs]
+0.867: [GC (Allocation Failure)  69888K->5380K(251392K), 0.0058184 secs]
+1.048: [GC (Allocation Failure)  70916K->6150K(251392K), 0.0054270 secs]
+1.264: [GC (Allocation Failure)  71686K->8860K(316928K), 0.0090725 secs]
+1.289: [GC (Metadata GC Threshold)  14093K->5456K(316928K), 0.0059582 secs]
+1.295: [Full GC (Metadata GC Threshold)  5456K->5186K(225792K), 0.0249401 secs]
+1.927: [GC (Allocation Failure)  136258K->11781K(323072K), 0.0082631 secs]
+2.946: [GC (Allocation Failure)  244229K->21432K(353280K), 0.0138756 secs]
+22.200: [GC (Metadata GC Threshold)  105665K->21781K(500736K), 0.0090374 secs]
+22.209: [Full GC (Metadata GC Threshold)  21781K->16399K(534528K), 0.1108065 secs]
